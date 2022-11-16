@@ -10,4 +10,3 @@ Team project 0x16. C - Simple Shell by Opara Felix and Bakare Olusola
 4 - Simple shell 0.3 +
 
 5 - Simple shell 0.4 +
-
